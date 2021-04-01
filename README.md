@@ -1,6 +1,8 @@
-### 👋 Hey there friend, my name is David Dansby. Sometimes I go by DataDavd or datadavd online. I am an autodidactic software engineer with a focus on data processing systems, Pythonista master, newfound lover of Go, and mechanical keyboard enthusiast
+## 👋 Hey there friend, my name is **David Dansby**. Sometimes I go by DataDavd or datadavd online. I am an autodidactic software engineer with a focus on data processing systems, Pythonista master, newfound lover of Go, and mechanical keyboard enthusiast
 
 ### 💪 I’m currently working at Atlassian as a Data Engineer with a focus on ingesting 500GB+ of data each into the the companies core data pipelines
+
+### 🌉 I currently live in Silicon Valley, California
 
 ### 🌱 Outside of work I'm constantly learning and improving my skills. Currently, I'm focused on mastering Go (my new favorite language), learning more about distributed systems theory and applications, and strengthening my API development skills
 
