@@ -20,7 +20,7 @@
 
 ### ⌨️ I am currently using a [Lily58 pro Info](https://boardsource.xyz/store/5ec9df84c6b834480de6c3d0) with Zealios V2 65G switches lubed with 205g0 and DSA keycaps from [pimpmykeyboard](https://pimpmykeyboard.com) as my daily driver. Check out my [QMK Layout](https://github.com/DataDavD/qmk_firmware/blob/master/keyboards/lily58/keymaps/datadavd_lily58pro/keymap.c)
 
-### :📫 How to reach me:
+### 📫 How to reach me
 <a href="https://www.linkedin.com/in/davidldansby/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!--
