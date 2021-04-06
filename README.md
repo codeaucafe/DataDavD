@@ -7,16 +7,26 @@
 ### 🌱 Outside of work I'm constantly learning and improving my skills. Currently, I'm focused on mastering Go (my new favorite language), learning more about distributed systems theory and applications, and strengthening my API development skills
 
 ### 🚀 Skills
+##### Programming
 - Python
 - Go
-- data platform
-- data engineering
+#### Data Engineering
+- swimming in data lakes
+- organizing data warehouses
+- building and maintaining data platforms
 - distributed data processing
-- backend data services
+- backend data services and APIs
+#### Software Engineering
+- concurrent programming (asyncio, concurrent.futures, goroutines, etc.)
+- REST APIs (Flask, FastAPI, net/http, etc.)
+- streaming (Kafka, Spark Structured Streaming, Flink, etc.)
+- batch processing (Spark, Presto, etc.)
+- OOP
+- TTD
+#### Open Source Data Tech
 - Apache Spark
 - Apache Airflow
 - PyData packages
-- machine learning
 
 ### ⌨️ I am currently using a [Lily58 pro Info](https://boardsource.xyz/store/5ec9df84c6b834480de6c3d0) with Zealios V2 65G switches lubed with 205g0 and DSA keycaps from [pimpmykeyboard](https://pimpmykeyboard.com) as my daily driver. Check out my [QMK Layout](https://github.com/DataDavD/qmk_firmware/blob/master/keyboards/lily58/keymaps/datadavd_lily58pro/keymap.c)
 
