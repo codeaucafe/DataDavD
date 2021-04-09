@@ -10,8 +10,8 @@
 #### Programming Languages (and SQL)
 - Python
 - Go
-- SQL
 #### Data Engineering
+- writing complex SQL queries, mostly SparkSQL
 - swimming in data lakes
 - organizing data warehouses
 - building and maintaining data platforms
