@@ -7,9 +7,10 @@
 ### 🌱 Outside of work I'm constantly learning and improving my skills. Currently, I'm focused on mastering Go (my new favorite language), learning more about distributed systems theory and applications, and strengthening my API development skills
 
 ### 🚀 Skills
-#### Programming Languages
+#### Programming Languages (and SQL)
 - Python
 - Go
+- SQL
 #### Data Engineering
 - swimming in data lakes
 - organizing data warehouses
