@@ -2,7 +2,7 @@
 
 ### 💪 I’m currently working at Atlassian as a Data Engineer with a focus on ingesting 500GB+ of data each day into the the our core data pipelines
 
-### 🌉 I am currently located in Silicon Valley, California
+### 🌉 I live in one of the greatest places on earth for lovers of tech and software, Silicon Valley, California
 
 ### 🌱 Outside of work I'm constantly learning and improving my skills. Currently, I'm focused on mastering Go (my new favorite language), learning more about distributed systems theory and applications, and strengthening my API development skills
 
