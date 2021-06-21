@@ -1,6 +1,8 @@
-### 👋 Hey there friend, my name is **David Dansby**. Sometimes I go by DataDavd or datadavd online. I am an autodidactic software engineer with a focus on data processing systems, Pythonista master, newfound lover of Go, mechanical keyboard enthusiast, and snobby single origin coffee addict.
+### 👋 Hey there friend, my name is **David Dansby**. Sometimes I go by DataDavd or datadavd online. I am an autodidactic (i.e. self-taught) software engineer at Atlassian working to ensure Bitbucket data is secure. I have a strong passion for secure data processing systems, Python, Go, mechanical keyboards, and rare single-origin coffee brewed using simple pour-over methods.
 
-### 💪 I’m currently working at Atlassian as a Data Engineer with a focus on ingesting 500GB+ of data each day into our core data pipelines
+### 💪 I’m currently working at Atlassian as a Backend Software Engineer on the Bitbucket Data Privacy and Security team. Previously, I was a data engineer on the Data Analytics and Engineering team at Atlassian that owned the data pipeline that ingests 500GB+ of data each day into our core data pipelines. 
+
+### :computer: Since I just started on a new team I may not be as active on GitHub for the next couple months as I move fast to get up to speed with my new team's projects, tooling, and processes
 
 ### 🌉 I live in one of the greatest places on earth for lovers of tech and software, Silicon Valley, California
 
@@ -10,13 +12,6 @@
 #### Programming Languages (and SQL)
 - Python
 - Go
-#### Data Engineering
-- writing complex SQL queries, mostly SparkSQL
-- swimming in data lakes
-- organizing data warehouses
-- building and maintaining data platforms
-- distributed data processing
-- backend data services and APIs
 #### Software Engineering
 - concurrent programming (asyncio, concurrent.futures, goroutines, etc.)
 - REST APIs (Flask, FastAPI, net/http, etc.)
@@ -24,6 +19,13 @@
 - batch processing (Spark, Presto, etc.)
 - OOP
 - TTD
+#### Data Engineering
+- writing complex SQL queries, mostly SparkSQL
+- swimming in data lakes
+- organizing data warehouses
+- building and maintaining data platforms
+- distributed data processing
+- backend data services and APIs
 #### Open Source Data Tech
 - Apache Spark
 - Apache Airflow
