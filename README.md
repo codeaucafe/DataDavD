@@ -6,7 +6,7 @@
 
 ### 🌉 I live in one of the greatest places on earth for lovers of tech and software, Silicon Valley, California
 
-### 🌱 Outside of work I'm constantly learning and improving my skills. Currently, I'm focused on mastering Go, learning more about distributed systems theory and applications, and strengthening my API development skills
+### 🌱 Outside of work I'm constantly learning and improving my skills. Currently, I'm focused on mastering Go, learning more about distributed systems theory and applications, and strengthening my API development skills. When I get time I like to build new mechanical keyboards or tweak my daily driver (i.e. lube switches, spring swap, etc.). Sometimes, I go hiking and snowboarding. When possible, I love using travel points to fly business/first class around the world with my lovely wife.
 
 ### 🚀 Skills
 #### Programming Languages (and SQL)
