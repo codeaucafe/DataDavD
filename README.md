@@ -8,6 +8,8 @@
 
 ### 🌱 Outside of work I'm constantly learning and improving my skills. Currently, I'm focused on mastering Go, learning more about distributed systems theory and applications, and strengthening my API development skills. When I get time I like to build new mechanical keyboards or tweak my daily driver (i.e. lube switches, spring swap, etc.). Sometimes, I go hiking and snowboarding. When possible, I love using travel points to fly business/first class around the world with my lovely wife.
 
+### ![Github All Contributors](https://img.shields.io/badge/DataDavD-Verified-brightgreen) I now sign all my commits, so look out for the green verified badge on my commits ([like this example signed commit](https://github.com/DataDavD/ds_interview_python/commit/8ca376532ef871323cfa1dfd9c1d5182efbdcade)) to ensure its really me contributing
+
 ### 🚀 Skills
 #### Programming Languages (and SQL)
 - Python
@@ -39,8 +41,6 @@
 <a href="https://www.linkedin.com/in/davidldansby/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=DataDavD&show_icons=true&theme=radical)
-
-
 
 <!--
 **DataDavD/DataDavD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
