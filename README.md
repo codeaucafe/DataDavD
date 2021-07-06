@@ -14,6 +14,10 @@
 #### Programming Languages (and SQL)
 - Python
 - Go
+- SparkSQL
+- HiveSQL
+- Presto
+- PostgreSQL
 #### Software Engineering
 - concurrent programming (asyncio, concurrent.futures, goroutines, etc.)
 - REST APIs (Flask, FastAPI, net/http, etc.)
