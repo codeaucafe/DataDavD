@@ -6,7 +6,7 @@
 
 ### 🌉 I live in one of the greatest places on earth for lovers of tech and software, Silicon Valley, California
 
-### 🌱 Outside of work I'm constantly learning and improving my skills. Currently, I'm focused on mastering Go, learning more about distributed systems theory and applications, and strengthening my API development skills. When I get time I like to build new mechanical keyboards or tweak my daily driver (i.e. lube switches, spring swap, etc.). Sometimes, I go hiking and snowboarding. When possible, I love using travel points to fly business/first class around the world with my lovely wife.
+### 🌱 Outside of work I'm constantly learning and improving my skills. Currently, I'm focused on mastering Go, learning more about distributed systems theory and applications, and strengthening my API development skills. When I get time I like to build new mechanical keyboards or tweak my daily driver (i.e. lube switches, spring swap, etc.). Sometimes, I go hiking and snowboarding. When possible, I love using travel points to fly business/first class around the world with my better half, my amazing, lovely wife.
 
 ### ![Github All Contributors](https://img.shields.io/badge/DataDavD-Verified-brightgreen) I now sign all my commits, so look out for the green verified badge on my commits ([like this example signed commit](https://github.com/DataDavD/ds_interview_python/commit/8ca376532ef871323cfa1dfd9c1d5182efbdcade)) to ensure its really me contributing
 
@@ -20,7 +20,7 @@
 - PostgreSQL
 #### Software Engineering
 - concurrent programming (asyncio, concurrent.futures, goroutines, etc.)
-- REST APIs (Flask, FastAPI, net/http, etc.)
+- Web Development and REST APIs (Django, Flask, FastAPI, Go's net/http, etc.)
 - streaming (Kafka, Spark Structured Streaming, Flink, etc.)
 - batch processing (Spark, Presto, etc.)
 - OOP
