@@ -8,6 +8,14 @@
 
 ### 🌱 Outside of work I'm constantly learning and improving my skills. Currently, I'm focused on mastering Go, learning more about distributed systems theory and applications, and strengthening my API development skills. When I get time I like to build new mechanical keyboards or tweak my daily driver (i.e. lube switches, spring swap, etc.). Sometimes, I go hiking and snowboarding. When possible, I love using travel points to fly business/first class around the world with my better half, my amazing, lovely wife.
 
+### :desktop_computer: Open Source Software Contributions:
+[lakeFS](https://github.com/treeverse/lakeFS)
+- [v0.48.0](https://github.com/treeverse/lakeFS/releases/tag/v0.48.0): Fixed bug to correctly return error when users navigate to routes downstream from `BaseURL`. For reference, the PR is [Pull Request #2382](https://github.com/treeverse/lakeFS/pull/2382)
+[go-bitbucket](https://github.com/ktrysmt/go-bitbucket)
+- [v0.9.21](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.21): Added Diff-Stat functionality. For reference, the PR is [Pull Request #145](https://github.com/ktrysmt/go-bitbucket/pull/145)
+- [v0.9.24](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.24): Created RepositoryRefsOptions type and ListRefs method. For reference, the PR is [Pull Request #155](https://github.com/ktrysmt/go-bitbucket/pull/155)
+- [Pull Request #156](https://github.com/ktrysmt/go-bitbucket/pull/156): This PR simplifies TagOptions and BranchOptions types into a single RefOptions type (since git tags and branches are both refs) and adds DeleteBranch and DeleteTag functionality.
+
 ### ![Github All Contributors](https://img.shields.io/badge/DataDavD-Verified-brightgreen) I now sign all my commits, so look out for the green verified badge on my commits ([like this example signed commit](https://github.com/DataDavD/ds_interview_python/commit/8ca376532ef871323cfa1dfd9c1d5182efbdcade)) to ensure its really me contributing
 
 ### 🚀 Skills
