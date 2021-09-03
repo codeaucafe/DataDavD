@@ -11,6 +11,7 @@
 ### :desktop_computer: Open Source Software Contributions:
 [lakeFS](https://github.com/treeverse/lakeFS)
 - [v0.48.0](https://github.com/treeverse/lakeFS/releases/tag/v0.48.0): Fixed bug to correctly return error when users navigate to routes downstream from `BaseURL`. For reference, the PR is [Pull Request #2382](https://github.com/treeverse/lakeFS/pull/2382)
+
 [go-bitbucket](https://github.com/ktrysmt/go-bitbucket)
 - [v0.9.21](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.21): Added Diff-Stat functionality. For reference, the PR is [Pull Request #145](https://github.com/ktrysmt/go-bitbucket/pull/145)
 - [v0.9.24](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.24): Created RepositoryRefsOptions type and ListRefs method. For reference, the PR is [Pull Request #155](https://github.com/ktrysmt/go-bitbucket/pull/155)
