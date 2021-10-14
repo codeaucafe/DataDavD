@@ -36,9 +36,9 @@
 - TTD
 #### Data Engineering
 - writing complex SQL queries, mostly SparkSQL
+- building and maintaining big data pipelines AND platforms
 - swimming in data lakes
 - organizing data warehouses
-- building and maintaining data platforms
 - distributed data processing
 - backend data services and APIs
 #### Open Source Data Tech
