@@ -1,6 +1,6 @@
 ### 👋 Hey there friend, my name is **David Dansby**. Sometimes I go by DataDavd or datadavd online. I am an autodidactic (i.e. self-taught) software engineer at Atlassian working to ensure Bitbucket data is secure. I have a strong passion for secure data processing systems, Python, Go, mechanical keyboards, and rare single-origin coffee brewed using simple pour-over methods.
 
-### 💪 I’m currently working at Atlassian as a Backend Software Engineer on the Bitbucket Data Privacy and Security team. Previously, I was a data engineer on the Data Analytics and Engineering team at Atlassian that owned the core data pipelines (we typically ingested 500GB+ of data each day into our pipelines). 
+### 💪 I’m currently working at Atlassian as a Backend Software Engineer on the Bitbucket Data Privacy and Security team. Previously, I was a data engineer on the Data Analytics and Engineering team at Atlassian that owned the core data pipelines (we typically ingested 500GB+ of data each day into our pipelines; and processed even more!!!). 
 
 ### :computer: Since I just started on a new team I may not be as active on GitHub for the next couple months as I move fast to get up to speed with my new team's projects, tooling, and processes
 
