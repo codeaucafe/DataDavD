@@ -2,7 +2,7 @@
 
 ### 💪 I’m currently working at Atlassian as a Backend Software Engineer on the Bitbucket Data Privacy and Security team. Previously, I was a data engineer on the Data Analytics and Engineering team at Atlassian that owned the core data pipelines (we typically ingested 500GB+ of data each day into our pipelines; and processed even more!!!). 
 
-### 🌉 I live in one of the greatest places on earth for lovers of tech and software, Silicon Valley, California
+### 🌉 I live in one of the greatest places on earth for lovers of tech and software: Silicon Valley, California.
 
 ### 🌱 Outside of work I'm constantly learning and improving my skills. Currently, I'm focused on mastering Go, learning more about distributed systems theory and applications, and strengthening my API development skills. When I get time I like to build new mechanical keyboards or tweak my daily driver (i.e. lube switches, spring swap, etc.). Sometimes, I go hiking and snowboarding. When possible, I love using travel points to fly business/first class around the world with my better half, my amazing, lovely wife.
 
