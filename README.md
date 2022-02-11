@@ -32,6 +32,8 @@
 - Web Development and REST APIs (Django, Flask, FastAPI, Go's net/http, etc.)
 - streaming (Kafka, Spark Structured Streaming, Flink, etc.)
 - batch processing (Spark, Presto, etc.)
+- reliability and monitoring (Splunk, SignalFX, Sentry, Opsgenie, Go and Python logging)
+- Docker
 - OOP
 - TTD
 #### Data Engineering
@@ -47,6 +49,11 @@
 - PyData packages
 - Apache Flink (wish to use more)
 - Apache Pulsar (wish to use much more; Pulsar > Kafka)
+#### Agile Software Development
+- Jira
+- Confluence
+- Jira Service Management
+- Slack
 
 ### ⌨️ I am currently using a [Lily58 pro](https://github.com/DataDavD/qmk_firmware/tree/master/keyboards/lily58) with Zealios V2 65G switches lubed with 205g0 and DSA keycaps from [pimpmykeyboard](https://pimpmykeyboard.com) as my daily driver. Check out my [QMK Layout](https://github.com/qmk/qmk_firmware/blob/master/keyboards/lily58/keymaps/datadavd/keymap.c)
 
