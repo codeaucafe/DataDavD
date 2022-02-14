@@ -32,7 +32,7 @@
 - Web Development and REST APIs (Django, Flask, FastAPI, Go's net/http, etc.)
 - streaming (Kafka, Spark Structured Streaming, Flink, etc.)
 - batch processing (Spark, Presto, etc.)
-- reliability and monitoring (Splunk, SignalFX, Sentry, Opsgenie, Statuspage, Go and Python logging)
+- DevOps, reliability, and monitoring (Bitbucket Pipelines, GitHub Actions, Splunk, SignalFX, Sentry, Opsgenie, Statuspage)
 - Docker
 - OOP
 - TTD
@@ -49,8 +49,8 @@
 - PyData packages
 - Apache Flink (wish to use more)
 - Apache Pulsar (wish to use much more; Pulsar > Kafka)
-#### Agile Software Development
-- Jira
+#### Agile and Modern Software Development Tools
+- Jira Software
 - Confluence
 - Jira Service Management
 - Trello
