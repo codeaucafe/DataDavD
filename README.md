@@ -20,22 +20,34 @@
 ### ![Github All Contributors](https://img.shields.io/badge/DataDavD-Verified-brightgreen) I now sign all my commits, so look out for the green verified badge on my commits ([like this example signed commit](https://github.com/DataDavD/ds_interview_python/commit/8ca376532ef871323cfa1dfd9c1d5182efbdcade)) to ensure its really me contributing
 
 ### 🚀 Skills
-#### Programming Languages (and SQL)
+#### Programming Languages
 - Python
 - Go
+- Strong interest in learning Rust (when I finally get time :laughing:)
+#### SQL
 - SparkSQL
 - HiveSQL
 - Presto
 - PostgreSQL
 #### Software Engineering
-- concurrent programming (asyncio, concurrent.futures, goroutines, etc.)
 - Web Development and REST APIs (Django, Flask, FastAPI, Go's net/http, etc.)
+- concurrent programming (asyncio, concurrent.futures, goroutines, etc.)
 - streaming (Kafka, Spark Structured Streaming, Flink, etc.)
 - batch processing (Spark, Presto, etc.)
-- DevOps, reliability, and monitoring (Bitbucket Pipelines, GitHub Actions, Splunk, SignalFX, Sentry, Opsgenie, Statuspage)
-- Docker
 - OOP
 - TTD
+#### DevOps, GitOps, reliability, and monitoring
+- Docker and Docker Compose
+- Bitbucket Pipelines
+- GitHub Actions
+- Splunk
+- SignalFX
+- Sentry
+- Opsgenie
+- Statuspage
+- statsd
+#### Cloud
+- AWS
 #### Data Engineering
 - writing complex SQL queries, mostly SparkSQL
 - building and maintaining big data pipelines AND platforms
@@ -43,7 +55,9 @@
 - organizing data warehouses
 - distributed data processing
 - backend data services and APIs
-#### Open Source Data Tech
+#### Data Tech
+- lakeFS
+- Databricks
 - Apache Spark
 - Apache Airflow
 - PyData packages
