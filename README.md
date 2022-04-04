@@ -10,6 +10,7 @@
 [lakeFS](https://github.com/treeverse/lakeFS)
 - [v0.48.0](https://github.com/treeverse/lakeFS/releases/tag/v0.48.0): Fixed bug to correctly return error when users navigate to routes downstream from `BaseURL`. For reference, the PR is [Pull Request #2382](https://github.com/treeverse/lakeFS/pull/2382).
 - [v0.54.0](https://github.com/treeverse/lakeFS/releases/tag/v0.54.0): Added in-app lakeFS documentation links on the Setup, Create a Repository (Modal), Branches, and Auth/Admin pages of lakeFS UI. For reference, the PR is [Pull Request #2506](https://github.com/treeverse/lakeFS/pull/2506).
+- [v0.62.0](https://github.com/treeverse/lakeFS/releases/tag/v0.62.0): Remove unused functions in tx.go. For reference, the PR is [Pull Request #3128](https://github.com/treeverse/lakeFS/pull/3128).
 
 [go-bitbucket](https://github.com/ktrysmt/go-bitbucket)
 - [v0.9.21](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.21): Added Diff-Stat functionality. For reference, the PR is [Pull Request #145](https://github.com/ktrysmt/go-bitbucket/pull/145).
