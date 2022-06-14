@@ -36,7 +36,8 @@
 - PostgreSQL
 #### Software Engineering
 - Web Development and REST APIs (Django, Flask, FastAPI, Go's net/http, etc.)
-- concurrent programming (asyncio, concurrent.futures, goroutines, etc.)
+- concurrent programming (goroutines, channel, select, asyncio, concurrent.futures, etc.)
+- gRPC
 - streaming (Kafka, Spark Structured Streaming, Flink, etc.)
 - batch processing (Spark, Presto, etc.)
 - OOP
@@ -52,7 +53,8 @@
 - Statuspage
 - statsd
 #### Cloud
-- AWS
+- AWS: SQS, Lambda, S3, EMR, EC2, SNS, aws-sdk-go, boto3, etc.
+- LocalStack
 #### Data Engineering
 - writing complex SQL queries, mostly SparkSQL
 - building and maintaining big data pipelines AND platforms
