@@ -20,7 +20,7 @@
 - [Pull Request #156](https://github.com/ktrysmt/go-bitbucket/pull/156): This PR simplifies TagOptions and BranchOptions types into a single RefOptions type (since git tags and branches are both refs) and adds DeleteBranch and DeleteTag functionality. This PR has not been merged yet as it is part of a large set of workstreams that encompass breaking changes in order to simplify the API by removing branch and tag specific options and moving to a single refs options (see [Issue #153](https://github.com/ktrysmt/go-bitbucket/issues/153)).
 
 [diagrams](https://github.com/mingrammer/diagrams)
-- [Pull Request #666](https://github.com/mingrammer/diagrams/pull/666): Update GCP icons using the [official, updated GCP icons](https://cloud.google.com/icons). (see [Issue #554](https://github.com/mingrammer/diagrams/issues/554)).
+- [v0.23.2](https://github.com/mingrammer/diagrams/discussions/828#discussioncomment-4673351): Update GCP icons using the [official, updated GCP icons](https://cloud.google.com/icons). (see [Issue #554](https://github.com/mingrammer/diagrams/issues/554)).
 
 ### ![Github All Contributors](https://img.shields.io/badge/DataDavD-Verified-brightgreen) I now sign all my commits, so look out for the green verified badge on my commits ([like this example signed commit](https://github.com/DataDavD/ds_interview_python/commit/8ca376532ef871323cfa1dfd9c1d5182efbdcade)) to ensure its really me contributing
 
@@ -52,6 +52,7 @@
 - Opsgenie
 - Statuspage
 - statsd
+- SonarQube
 #### Cloud
 - AWS: SQS, Lambda, S3, EMR, EC2, SNS, aws-sdk-go, boto3, etc.
 - LocalStack
