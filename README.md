@@ -26,8 +26,8 @@
 
 ### 🚀 Skills
 #### Programming Languages
-- Python
 - Go
+- Python
 - Strong interest in learning Rust (when I finally get time :laughing:)
 #### Software Engineering
 - Web Development and REST APIs (Django, Flask, FastAPI, Go's net/http, etc.)
