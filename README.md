@@ -29,11 +29,6 @@
 - Python
 - Go
 - Strong interest in learning Rust (when I finally get time :laughing:)
-#### SQL
-- SparkSQL
-- HiveSQL
-- Presto
-- PostgreSQL
 #### Software Engineering
 - Web Development and REST APIs (Django, Flask, FastAPI, Go's net/http, etc.)
 - concurrent programming (goroutines, channel, select, asyncio, concurrent.futures, etc.)
@@ -56,6 +51,11 @@
 #### Cloud
 - AWS: SQS, Lambda, S3, EMR, EC2, SNS, aws-sdk-go, boto3, etc.
 - LocalStack
+#### SQL
+- SparkSQL
+- HiveSQL
+- Presto
+- PostgreSQL
 #### Data Engineering
 - writing complex SQL queries, mostly SparkSQL
 - building and maintaining big data pipelines AND platforms
