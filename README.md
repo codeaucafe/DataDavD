@@ -1,10 +1,12 @@
 ### 👋 Hey there friend!!! My name is **David Dansby**. Sometimes I go by DataDavd or datadavd online. I am a self-taught software engineer at Atlassian working to ensure Bitbucket data is secure. I have a strong passion for secure data processing systems, Go, Python, and limited single-origin coffees. When time allows you can find me tinkering with one of my split mechanical keyboards. Given I just bought a house, I’ve recently been getting into home automation (Alexa-based); ask about my 40+ smart home devices I have connected.
 
-### 💪 I’m currently working remotely at Atlassian as a Backend Software Engineer on the Bitbucket Data Privacy and Security team. Previously, I was a data engineer on the Data Analytics and Engineering team at Atlassian that owned the core data pipelines (we typically ingested 500GB+ of data each day into our pipelines; and processed even more!!!). 
+### 💪 I’m currently working remotely at Atlassian as a Backend Software Engineer on Jira Align. Previously, I worked on the Bitbucket Cloud Data Privacy and Security team. And before that, I was a data engineer on the Data Analytics and Engineering team at Atlassian that owned the core data pipelines (we typically ingested 500GB+ of data each day into our pipelines; and processed even more!!!). 
 
 ### :mount_fuji: Seattle area
 
-### 🌱 Outside of work I'm constantly learning and improving my skills. Currently, I'm focused on mastering Go, learning more about distributed systems theory and applications, and strengthening my API development skills. Lately, I've been snowboarding with my brother now that I'm closer to him in Seattle. Sometimes, I go hiking. When possible, I love using travel points to fly business/first class around the world with my better half, my amazing wife.
+### 💻 Outside of work I'm constantly learning and improving my skills. Currently, I've been utilizing ChatGPT, Copilot, Bard, and Claude 2.0 to enhance both my software engineering skillset, work efficiency, and overall life productivity, on top of continuing to learn more about distributed systems, and strengthening my API development skills. 
+
+### 📚 Outside of software engineering and tech, I'v been diligently learning and mastering French to deepen my understanding of my wife's culture, and enhance my communication with my wife's family and friends. And, since I've moved to Seattle last year, I've been snowboarding and hiking with my brother now that I'm closer to him. When possible, I love using travel points to fly business/first class around the world with my better half, my amazing wife.
 
 ### :desktop_computer: Open Source Software Contributions:
 [lakeFS](https://github.com/treeverse/lakeFS)
