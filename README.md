@@ -81,7 +81,7 @@
 - Halp
 - Slack
 
-### ⌨️ I am currently using a [Lily58 pro](https://github.com/DataDavD/qmk_firmware/tree/master/keyboards/lily58) with Zealios V2 65G switches lubed with 205g0 and DSA keycaps from [pimpmykeyboard](https://pimpmykeyboard.com) as my daily driver. What does it look like? [Find out](https://imgur.com/a/zADHNei)! Check out my [QMK Layout](https://github.com/qmk/qmk_firmware/blob/master/keyboards/lily58/keymaps/datadavd/keymap.c)
+### ⌨️ I am currently using a [Boardsource lulu](https://boardsource.xyz/store/61d0b772319a1f3cc53ba2fb) with Alpaca V2 linear switches lubed with 205g0 and official Star Wars Galatic Empire DSA keycaps from [NovelKeys](https://novelkeys.com/products/star-wars-galactic-empire-dsa-keycap-set) as my daily driver. What does it look like? [Find out](https://imgur.com/a/aZB5aaT)! Check out my [QMK Layout](https://github.com/DataDavD/qmk_firmware/blob/ddansby/lulu-keymap/keyboards/boardsource/lulu/keymaps/datadavd/keymap.c) too!
 
 ### 📫 How to reach me
 <a href="https://www.linkedin.com/in/davidldansby/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
