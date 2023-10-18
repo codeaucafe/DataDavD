@@ -4,7 +4,7 @@
 
 ### :mount_fuji: I'm located in the greater Seattle area; beautiful Edmonds to be specific.
 
-### 💻 Outside of work I'm constantly learning and improving my skills. Currently, I've been heavily using ChatGPT, Copilot, Bard, and Claude 2.0 to enhance both my software engineering skillset, work efficiency, and overall life productivity, on top of continuing to learn more about distributed systems, and strengthening my API development skills. 
+### 💻 Outside of work I'm constantly learning and improving my skills. Currently, I've been heavily using ChatGPT, Copilot, Bard, HuggingChat, and Claude 2.0 to enhance both my software engineering skillset, work efficiency, and overall life productivity, on top of continuing to learn more about distributed systems, and strengthening my API development skills. 
 
 ### 📚 Outside of software engineering and tech, I'v been diligently learning and mastering French to deepen my understanding of my wife's culture, and enhance my communication with my wife's family and friends. And, since I've moved to Seattle last year, I've been snowboarding and hiking with my brother now that I'm closer to him. When possible, I love using travel points to fly business/first class around the world with my better half, my amazing wife.
 
