@@ -10,16 +10,16 @@
 
 ### :desktop_computer: Open Source Software Contributions:
 [lakeFS](https://github.com/treeverse/lakeFS)
-- [v0.48.0](https://github.com/treeverse/lakeFS/releases/tag/v0.48.0): Fixed bug to correctly return error when users navigate to routes downstream from `BaseURL`. For reference, the PR is [Pull Request #2382](https://github.com/treeverse/lakeFS/pull/2382).
-- [v0.54.0](https://github.com/treeverse/lakeFS/releases/tag/v0.54.0): Added in-app lakeFS documentation links on the Setup, Create a Repository (Modal), Branches, and Auth/Admin pages of lakeFS UI. For reference, the PR is [Pull Request #2506](https://github.com/treeverse/lakeFS/pull/2506).
-- [v0.62.0](https://github.com/treeverse/lakeFS/releases/tag/v0.62.0): Remove unused functions in tx.go. For reference, the PR is [Pull Request #3128](https://github.com/treeverse/lakeFS/pull/3128).
+- [v0.48.0](https://github.com/treeverse/lakeFS/releases/tag/v0.48.0): Fixed bug to correctly return error when users navigate to routes downstream from `BaseURL`. PR: [Pull Request #2382](https://github.com/treeverse/lakeFS/pull/2382).
+- [v0.54.0](https://github.com/treeverse/lakeFS/releases/tag/v0.54.0): Added in-app lakeFS documentation links on the Setup, Create a Repository (Modal), Branches, and Auth/Admin pages of lakeFS UI. PR: [Pull Request #2506](https://github.com/treeverse/lakeFS/pull/2506).
+- [v0.62.0](https://github.com/treeverse/lakeFS/releases/tag/v0.62.0): Remove unused functions in tx.go. PR: [Pull Request #3128](https://github.com/treeverse/lakeFS/pull/3128).
 - [v0.63.0](https://github.com/treeverse/lakeFS/releases/tag/v0.63.0): Fix 'Create a Repo' minimum character limit wording. For reference, the PR is [Pull Request #3155](https://github.com/treeverse/lakeFS/pull/3155).
 
 [go-bitbucket](https://github.com/ktrysmt/go-bitbucket)
-- [v0.9.21](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.21): Added Diff-Stat functionality. For reference, the PR is [Pull Request #145](https://github.com/ktrysmt/go-bitbucket/pull/145).
-- [v0.9.24](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.24): Created RepositoryRefsOptions type and ListRefs method. For reference, the PR is [Pull Request #155](https://github.com/ktrysmt/go-bitbucket/pull/155).
-- [v0.9.30](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.30): Update GetDiffStat functionality to filter response fields. For reference, the PR is [Pull Request #171](https://github.com/ktrysmt/go-bitbucket/pull/171).
-- [Pull Request #156](https://github.com/ktrysmt/go-bitbucket/pull/156): This PR simplifies TagOptions and BranchOptions types into a single RefOptions type (since git tags and branches are both refs) and adds DeleteBranch and DeleteTag functionality. This PR has not been merged yet as it is part of a large set of workstreams that encompass breaking changes in order to simplify the API by removing branch and tag specific options and moving to a single refs options (see [Issue #153](https://github.com/ktrysmt/go-bitbucket/issues/153)).
+- [v0.9.21](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.21): Added Diff-Stat functionality. PR [Pull Request #145](https://github.com/ktrysmt/go-bitbucket/pull/145).
+- [v0.9.24](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.24): Created RepositoryRefsOptions type and ListRefs method. PR [Pull Request #155](https://github.com/ktrysmt/go-bitbucket/pull/155).
+- [v0.9.30](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.30): Update GetDiffStat functionality to filter response fields. PR [Pull Request #171](https://github.com/ktrysmt/go-bitbucket/pull/171).
+- [Pull Request #156](https://github.com/ktrysmt/go-bitbucket/pull/156): This PR simplifies TagOptions and BranchOptions types into a single RefOptions type (since git tags and branches are both refs) and adds DeleteBranch and DeleteTag functionality.
 
 [diagrams](https://github.com/mingrammer/diagrams)
 - [v0.23.2](https://github.com/mingrammer/diagrams/discussions/828#discussioncomment-4673351): Update GCP icons using the [official, updated GCP icons](https://cloud.google.com/icons). (see [Issue #554](https://github.com/mingrammer/diagrams/issues/554)).
