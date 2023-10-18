@@ -34,7 +34,6 @@
 #### Software Engineering
 - Web Development and REST APIs (Django, Flask, FastAPI, Go's net/http, etc.)
 - concurrent programming (goroutines, channel, select, asyncio, concurrent.futures, etc.)
-- gRPC
 - streaming (Kafka, Spark Structured Streaming, Flink, etc.)
 - batch processing (Spark, Presto, etc.)
 - OOP
