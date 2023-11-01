@@ -1,6 +1,6 @@
-### 👋 Hey there friend!!! My name is **David Dansby**. Sometimes I go by DataDavd or datadavd online (a relic from data engineering days). I am a self-taught software engineer at Atlassian working to ensure Bitbucket data is secure. I have a strong passion for secure data processing systems, Go, Python, and limited single-origin coffees. When time allows you can find me tinkering with one of my split mechanical keyboards. Given I just bought a house, I’ve recently been getting into home automation (Alexa-based); ask about my 40+ smart home devices I have connected.
+### 👋 Hey there friend!!! My name is **David Dansby**. Sometimes I go by DataDavd or datadavd online (a relic from data engineering days). I am a self-taught software engineer at Atlassian working on Jira Align. I have a strong passion for secure data processing systems, Go, Python, and limited single-origin coffees. When time allows you can find me tinkering with one of my split mechanical keyboards. Given I just bought a house, I’ve recently been getting into home automation (Alexa-based); ask about my 40+ smart home devices I have connected.
 
-### 💪 I’m currently working remotely at Atlassian as a Backend Software Engineer on Jira Align. Previously, I worked on the Bitbucket Cloud Data Privacy and Security team. And before that, I was a data engineer on the Data Analytics and Engineering team at Atlassian that owned the core data pipelines (we typically ingested 500GB+ of data each day into our pipelines; and processed even more!!!). 
+### 💪 I’m currently working remotely at Atlassian as a Software Engineer on Jira Align. Previously, I worked on the Bitbucket Cloud Data Privacy and Security team. And before that, I was a data engineer on the Data Analytics and Engineering team at Atlassian that owned the core data pipelines (we typically ingested 500GB+ of data each day into our pipelines; and processed even more!!!). 
 
 ### :mount_fuji: I'm located in the greater Seattle area; beautiful Edmonds to be specific.
 
@@ -32,7 +32,7 @@
 - Python
 - Strong interest in learning Rust (when I finally get time :laughing:)
 #### Software Engineering
-- Web Development and REST APIs (Django, Flask, FastAPI, Go's net/http, etc.)
+- Web Development and REST APIs (Django, React, Go's net/http, etc.)
 - concurrent programming (goroutines, channel, select, asyncio, concurrent.futures, etc.)
 - streaming (Kafka, Spark Structured Streaming, Flink, etc.)
 - batch processing (Spark, Presto, etc.)
