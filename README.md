@@ -4,11 +4,14 @@
 
 ### :mount_fuji: I'm located in the greater Seattle area; beautiful Edmonds to be specific.
 
-### 💻 Outside of work I'm constantly learning and improving my skills. Currently, I've been heavily using ChatGPT, Copilot, Bard, HuggingChat, and Claude 2.0 to enhance both my software engineering skillset, work efficiency, and overall life productivity, on top of continuing to learn more about distributed systems, and strengthening my API development skills. 
+### 💻 Outside of work I'm constantly learning and improving my skills. Currently, I've been heavily using AI tools like ChatGPT, Copilot, Bard, HuggingChat, and Claude 2.0 to enhance both my software engineering skillset, work efficiency, and overall life productivity. 
 
-### 📚 Outside of software engineering and tech, I'v been diligently learning and mastering French to deepen my understanding of my wife's culture, and enhance my communication with my wife's family and friends. And, since I've moved to Seattle last year, I've been snowboarding and hiking with my brother now that I'm closer to him. When possible, I love using travel points to fly business/first class around the world with my better half, my amazing wife.
+### 📚 Outside of software engineering and tech, I'v been diligently learning French to deepen my understanding of my wife's culture, and enhance my communication with my wife's family and friends. And, since I've moved to Seattle last year, I've been snowboarding and hiking with my brother now that I'm closer to him. Lastly, I love using travel points to fly business/first class around the world with my better half, my amazing wife.
 
 ### :desktop_computer: Open Source Software Contributions:
+[in-toto/witness](https://github.com/in-toto/witness)
+- [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0): Add the ability for users to set what hash algoriths they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
+
 [lakeFS](https://github.com/treeverse/lakeFS)
 - [v0.48.0](https://github.com/treeverse/lakeFS/releases/tag/v0.48.0): Fixed bug to correctly return error when users navigate to routes downstream from `BaseURL`. [Pull Request #2382](https://github.com/treeverse/lakeFS/pull/2382).
 - [v0.54.0](https://github.com/treeverse/lakeFS/releases/tag/v0.54.0): Added in-app lakeFS documentation links on the Setup, Create a Repository (Modal), Branches, and Auth/Admin pages of lakeFS UI. [Pull Request #2506](https://github.com/treeverse/lakeFS/pull/2506).
