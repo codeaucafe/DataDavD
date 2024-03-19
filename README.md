@@ -10,7 +10,7 @@
 
 ### :desktop_computer: Open Source Software Contributions:
 [in-toto/witness](https://github.com/in-toto/witness)
-- [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0): Add the ability for users to set what hash algoriths they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
+- [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0): Add the ability for users to set what hash algorithms they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
 
 [lakeFS](https://github.com/treeverse/lakeFS)
 - [v0.48.0](https://github.com/treeverse/lakeFS/releases/tag/v0.48.0): Fixed bug to correctly return error when users navigate to routes downstream from `BaseURL`. [Pull Request #2382](https://github.com/treeverse/lakeFS/pull/2382).
