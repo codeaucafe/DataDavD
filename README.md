@@ -6,7 +6,7 @@
 
 ### 💻 Outside of work I'm constantly learning and improving my skills. Currently, I've been heavily using AI tools like ChatGPT, Copilot, Bard, HuggingChat, and Claude 2.0 to enhance both my software engineering skillset, work efficiency, and overall life productivity. 
 
-### 📚 Outside of software engineering and tech, I'v been diligently learning French to deepen my understanding of my wife's culture, and enhance my communication with my wife's family and friends. And, since I've moved to Seattle last year, I've been snowboarding and hiking with my brother now that I'm closer to him. Lastly, I love using travel points to fly business/first class around the world with my better half, my amazing wife.
+### 📚 Outside of software engineering and tech, I'v been diligently learning French to deepen my understanding of her culture, and enhance my communication with my wife's family and friends. And, since I've moved to Seattle last year, I've been snowboarding and hiking with my brother now that I'm closer to him. Lastly, I love using travel points to fly business/first class around the world with my better half, my amazing wife.
 
 ### :desktop_computer: Open Source Software Contributions:
 [in-toto/witness](https://github.com/in-toto/witness)
