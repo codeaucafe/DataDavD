@@ -33,12 +33,13 @@
 #### Programming Languages
 - Go
 - Python
-- Strong interest in learning Rust (when I finally get time :laughing:)
+- Javascript
 #### Software Engineering
+- Backend software engineering
 - Web Development and REST APIs (Django, React, Go's net/http, etc.)
 - concurrent programming (goroutines, channel, select, asyncio, concurrent.futures, etc.)
-- streaming (Kafka, Spark Structured Streaming, Flink, etc.)
-- batch processing (Spark, Presto, etc.)
+- React
+- batch and stream data processing (Apache Spark and Presto)
 - OOP
 - TTD
 #### DevOps, GitOps, reliability, and monitoring
