@@ -2,7 +2,7 @@
 
 ### 💪 I’m currently working remotely at Atlassian as a Software Engineer on our Jira Align product (mostly working on the C#/.NET backend sprinkled with some frontend work in React). Previously, I worked on the Bitbucket Cloud Data Privacy and Security team as a software engineer with a focus on all things security and data protection. And before that, I was a data engineer on the Data Analytics and Engineering team at Atlassian that owned the core data pipelines (we typically ingested 500GB+ of data each day into our pipelines; and processed even more!!!). 
 
-### :mount_fuji: I'm located in the greater Seattle area; beautiful Edmonds to be specific.
+### :mount_fuji: I'm located in the greater Seattle area.
 
 ### 💻 Outside of work I'm constantly learning and improving my skills. Currently, I've been heavily using AI tools like ChatGPT, Copilot, Bard, HuggingChat, and Claude 2.0 to enhance both my software engineering skillset, work efficiency, and overall life productivity. 
 
