@@ -28,7 +28,7 @@
 [diagrams](https://github.com/mingrammer/diagrams)
 - [v0.23.2](https://github.com/mingrammer/diagrams/discussions/828#discussioncomment-4673351): Update GCP icons using the [official, updated GCP icons](https://cloud.google.com/icons). (see [Issue #554](https://github.com/mingrammer/diagrams/issues/554)).
 
-### ![Github All Contributors](https://img.shields.io/badge/DataDavD-Verified-brightgreen) I sign all my commits ([with vigilant mode](https://docs.github.com/en/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits)) to ensure its really me contributing.
+### ![Github All Contributors](https://img.shields.io/badge/DataDavD-Verified-brightgreen) I sign all my commits
 
 ### 🚀 Skills
 #### Programming Languages
