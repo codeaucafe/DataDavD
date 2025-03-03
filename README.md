@@ -1,12 +1,12 @@
-### 👋 Hey there friend!!! My name is **David Dansby**. Sometimes I go by DataDavd or datadavd online (a relic from data engineering days). I am a self-taught software engineer at Atlassian. I have a strong passion for secure data processing systems, Go, Python, and rare single-origin coffees. When time allows you can find me tinkering with one of my split mechanical keyboards. Given I just bought a house, I’ve recently been getting into home automation.
+### 👋 Hey there friend!!! My name is **David Dansby**. Sometimes I go by DataDavd or datadavd online (a relic from data engineering days). I am a self-taught software engineer at Atlassian. I have a strong passion for distributed systems, microservices, secure data processing systems, Go, Python, and rare single-origin coffees. When time allows you can find me tinkering with one of my split mechanical keyboards. Recently, I've been getting into home automation.
 
 ### 💪 I’m currently working remotely at Atlassian as a Software Engineer on our Jira Align product (mostly working on the C#/.NET backend sprinkled with some frontend work in React). Previously, I worked on the Bitbucket Cloud Data Privacy and Security team as a software engineer using Go and Python with a focus on all things security and data protection. And before that, I was a data engineer on the Data Analytics and Engineering team at Atlassian that owned the core data pipelines (we typically ingested 500GB+ of data each day into our pipelines; and processed even more!!!). 
 
 ### :mount_fuji: I'm located in the greater Seattle area.
 
-### 💻 Outside of work I'm constantly learning and improving my skills. Currently, I've been heavily using AI tools like ChatGPT, Copilot, Bard, HuggingChat, and Claude 2.0 to enhance both my software engineering skillset, work efficiency, and overall life productivity. 
+### 💻 Outside of work I'm constantly learning and improving my skills. I like doing LeetCode, improving my knowledge of various software system designs, reading software-related books, and improving my Go knowledge.
 
-### 📚 Outside of software engineering and tech, I'v been diligently learning French to deepen my understanding of her culture, and enhance my communication with my wife's family and friends. And, since I've moved to Seattle last year, I've been snowboarding and hiking with my brother now that I'm closer to him. Lastly, I love using travel points to fly business/first class around the world with my better half, my amazing wife.
+### 📚 Outside of software engineering and tech, I'm learning French, snowboard with my brother and friends, and love traveling with my wife.
 
 ### :desktop_computer: Open Source Software Contributions:
 [in-toto/witness](https://github.com/in-toto/witness)
